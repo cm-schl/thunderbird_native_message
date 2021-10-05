@@ -1,0 +1,7 @@
+{
+  "name": "send_to_d3",
+  "description": "Local Handler for the Send to d.3 Addon",
+  "path": "C:\\Program Files\\<INSERT PATH>\\send_to_d3 Handler\\send_to_d3Handler.exe",
+  "type": "stdio",
+  "allowed_extensions": [ "<YOUR EXTENSION ID>" ]
+}

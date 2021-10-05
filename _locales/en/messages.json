@@ -1,0 +1,6 @@
+{
+    "browser_action_title": {
+        "message": "Save mail to d.3",
+        "description": "Title of the toolbar button"
+    }
+}

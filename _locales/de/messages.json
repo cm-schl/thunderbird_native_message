@@ -1,0 +1,6 @@
+{
+    "browser_action_title": {
+        "message": "E-Mail in d.3 ablegen",
+        "description": "Title of the toolbar button"
+    }
+}
